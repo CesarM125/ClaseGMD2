@@ -1,0 +1,14 @@
+D:\ClaseNet2017\ClaseGmd\Prueba.DAO\bin\Debug\Prueba.DAO.dll
+D:\ClaseNet2017\ClaseGmd\Prueba.DAO\bin\Debug\Prueba.DAO.pdb
+D:\ClaseNet2017\ClaseGmd\Prueba.DAO\obj\Debug\3Prueba.DAO.csprojResolveAssemblyReference.cache
+D:\ClaseNet2017\ClaseGmd\Prueba.DAO\obj\Debug\Prueba.DAO.dll
+D:\ClaseNet2017\ClaseGmd\Prueba.DAO\obj\Debug\Prueba.DAO.pdb
+D:\ClaseNet2017\ClaseGmd\Prueba.DAO\bin\Debug\Prueba.DAO.dll.config
+D:\ClaseNet2017\ClaseGmd\Prueba.DAO\bin\Debug\EntityFramework.dll
+D:\ClaseNet2017\ClaseGmd\Prueba.DAO\bin\Debug\EntityFramework.SqlServer.dll
+D:\ClaseNet2017\ClaseGmd\Prueba.DAO\bin\Debug\Prueba.Infraestructura.dll
+D:\ClaseNet2017\ClaseGmd\Prueba.DAO\bin\Debug\Prueba.Model.dll
+D:\ClaseNet2017\ClaseGmd\Prueba.DAO\bin\Debug\Prueba.Infraestructura.pdb
+D:\ClaseNet2017\ClaseGmd\Prueba.DAO\bin\Debug\Prueba.Model.pdb
+D:\ClaseNet2017\ClaseGmd\Prueba.DAO\bin\Debug\EntityFramework.xml
+D:\ClaseNet2017\ClaseGmd\Prueba.DAO\bin\Debug\EntityFramework.SqlServer.xml

@@ -1,0 +1,13 @@
+D:\ClaseNet2017\ClaseGmd\Prueba.BL\bin\Debug\Prueba.BL.dll
+D:\ClaseNet2017\ClaseGmd\Prueba.BL\bin\Debug\Prueba.BL.pdb
+D:\ClaseNet2017\ClaseGmd\Prueba.BL\bin\Debug\Prueba.DAO.dll
+D:\ClaseNet2017\ClaseGmd\Prueba.BL\bin\Debug\Prueba.DAO.pdb
+D:\ClaseNet2017\ClaseGmd\Prueba.BL\obj\Debug\2Prueba.BL.csprojResolveAssemblyReference.cache
+D:\ClaseNet2017\ClaseGmd\Prueba.BL\obj\Debug\Prueba.BL.dll
+D:\ClaseNet2017\ClaseGmd\Prueba.BL\obj\Debug\Prueba.BL.pdb
+D:\ClaseNet2017\ClaseGmd\Prueba.BL\bin\Debug\Prueba.Infraestructura.dll
+D:\ClaseNet2017\ClaseGmd\Prueba.BL\bin\Debug\Prueba.Model.dll
+D:\ClaseNet2017\ClaseGmd\Prueba.BL\bin\Debug\Prueba.Infraestructura.pdb
+D:\ClaseNet2017\ClaseGmd\Prueba.BL\bin\Debug\Prueba.Model.pdb
+D:\ClaseNet2017\ClaseGmd\Prueba.BL\bin\Debug\EntityFramework.dll
+D:\ClaseNet2017\ClaseGmd\Prueba.BL\bin\Debug\EntityFramework.xml

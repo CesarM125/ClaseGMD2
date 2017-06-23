@@ -1,0 +1,5 @@
+D:\ClaseNet2017\ClaseGmd\Prueba.Model\bin\Debug\Prueba.Model.dll
+D:\ClaseNet2017\ClaseGmd\Prueba.Model\bin\Debug\Prueba.Model.pdb
+D:\ClaseNet2017\ClaseGmd\Prueba.Model\obj\Debug\Prueba.Model.dll
+D:\ClaseNet2017\ClaseGmd\Prueba.Model\obj\Debug\Prueba.Model.pdb
+D:\ClaseNet2017\ClaseGmd\Prueba.Model\obj\Debug\Prueba.Model.csprojResolveAssemblyReference.cache
