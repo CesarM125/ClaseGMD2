@@ -21,10 +21,14 @@ namespace Prueba.DAO
         public DbSet<Clase> Clases { get; set; }
         public DbSet<Profesor> Profesores { get; set; }
 
+        public DbSet<Alumno> Alumnos { get; set; }
+        public DbSet<Matricula> Matriculas { get; set; }
+        public DbSet<Curso> Cursos { get; set; }
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
             modelBuilder.Conventions.Remove<PluralizingTableNameConvention>();
         }
 
+        
     }
 }

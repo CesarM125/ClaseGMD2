@@ -2,3 +2,4 @@ D:\ClaseNet2017\ClaseGmd\Prueba.Infraestructura\bin\Debug\Prueba.Infraestructura
 D:\ClaseNet2017\ClaseGmd\Prueba.Infraestructura\bin\Debug\Prueba.Infraestructura.pdb
 D:\ClaseNet2017\ClaseGmd\Prueba.Infraestructura\obj\Debug\Prueba.Infraestructura.dll
 D:\ClaseNet2017\ClaseGmd\Prueba.Infraestructura\obj\Debug\Prueba.Infraestructura.pdb
+D:\ClaseNet2017\ClaseGmd\Prueba.Infraestructura\obj\Debug\Prueba.Infraestructura.csprojResolveAssemblyReference.cache
