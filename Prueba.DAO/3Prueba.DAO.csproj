@@ -56,6 +56,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Repository\AlumnoRepository.cs" />
     <Compile Include="Repository\ClaseRepository.cs" />
+    <Compile Include="Repository\MatriculaRepository.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
